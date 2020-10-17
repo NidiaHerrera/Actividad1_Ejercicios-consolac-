@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\obj\Debug\Ejercicio 5 Ordenar numeros.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\obj\Debug\Ejercicio 5 Ordenar numeros.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\bin\Debug\Ejercicio 5 Ordenar numeros.exe.config
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\bin\Debug\Ejercicio 5 Ordenar numeros.exe
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\bin\Debug\Ejercicio 5 Ordenar numeros.pdb
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\obj\Debug\Ejercicio 5 Ordenar numeros.exe
+C:\Users\User\source\repos\Ejercicio 5 Ordenar numeros\Ejercicio 5 Ordenar numeros\obj\Debug\Ejercicio 5 Ordenar numeros.pdb

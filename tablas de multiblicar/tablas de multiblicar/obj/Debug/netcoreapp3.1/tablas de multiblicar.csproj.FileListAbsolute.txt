@@ -1,0 +1,11 @@
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.exe
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.deps.json
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.runtimeconfig.json
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.dll
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\bin\Debug\netcoreapp3.1\tablas de multiblicar.pdb
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\obj\Debug\netcoreapp3.1\tablas de multiblicar.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\obj\Debug\netcoreapp3.1\tablas de multiblicar.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\obj\Debug\netcoreapp3.1\tablas de multiblicar.AssemblyInfo.cs
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\obj\Debug\netcoreapp3.1\tablas de multiblicar.dll
+C:\Users\wilso\source\repos\tablas de multiblicar\tablas de multiblicar\obj\Debug\netcoreapp3.1\tablas de multiblicar.pdb

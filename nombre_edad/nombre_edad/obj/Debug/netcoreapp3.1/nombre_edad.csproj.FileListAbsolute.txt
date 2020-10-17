@@ -1,0 +1,11 @@
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.exe
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.deps.json
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.runtimeconfig.json
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.dll
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\bin\Debug\netcoreapp3.1\nombre_edad.pdb
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\obj\Debug\netcoreapp3.1\nombre_edad.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\obj\Debug\netcoreapp3.1\nombre_edad.AssemblyInfo.cs
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\obj\Debug\netcoreapp3.1\nombre_edad.dll
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\obj\Debug\netcoreapp3.1\nombre_edad.pdb
+C:\Users\wilso\source\repos\nombre_edad\nombre_edad\obj\Debug\netcoreapp3.1\nombre_edad.csprojAssemblyReference.cache

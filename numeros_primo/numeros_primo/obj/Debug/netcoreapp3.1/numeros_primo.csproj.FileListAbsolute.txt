@@ -1,0 +1,11 @@
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.exe
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.deps.json
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.runtimeconfig.json
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.dll
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\bin\Debug\netcoreapp3.1\numeros_primo.pdb
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\obj\Debug\netcoreapp3.1\numeros_primo.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\obj\Debug\netcoreapp3.1\numeros_primo.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\obj\Debug\netcoreapp3.1\numeros_primo.AssemblyInfo.cs
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\obj\Debug\netcoreapp3.1\numeros_primo.dll
+C:\Users\wilso\source\repos\numeros_primo\numeros_primo\obj\Debug\netcoreapp3.1\numeros_primo.pdb
